@@ -1,0 +1,42 @@
+
+
+.hello {
+    padding: 40px 0;
+    background-color:#D3D3D3;
+}
+
+.photo-hello {
+    border-radius : 15%;
+}
+
+.study-and-work {
+    padding: 40px 0;
+}
+ 
+.study-and-work h1,
+.study-and-work h3
+{
+    padding: 20px 0;
+}
+
+
+
+.perks h1,
+.perks h3,
+.second-perks h3{
+    padding: 20px 0;
+}
+
+table tr th{ 
+    text-align: center;
+    padding-left: 5px;
+    }
+
+.page-footer{
+    background-color: #D3D3D3;
+    
+    margin-top: 20px;
+}
+
+
+
